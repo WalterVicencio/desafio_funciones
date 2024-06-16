@@ -1,0 +1,22 @@
+div{
+    display: flex;
+    padding: 2px;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+    height: 100vh;
+}
+
+div a{
+    text-decoration: none;
+    background-color: aquamarine;
+    color: black;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+div a:hover{
+
+    background-color: rgb(29, 71, 57);
+    color: white;
+}
